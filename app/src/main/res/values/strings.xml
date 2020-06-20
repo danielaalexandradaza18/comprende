@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">comprende</string>
+    <string name="app_name">Comprende</string>
+    <string name="bienvenido">Bienvenido a Comprende</string>
+    <string name="siguiente">Siguiente</string>
 </resources>
